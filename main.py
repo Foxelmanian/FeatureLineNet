@@ -1,5 +1,6 @@
 # Polygon Feature Detection
 # Author: Denk, Martin 27.05.2019, University of Applied Science Munich
+# 
 
 import os
 import pandas as pd
