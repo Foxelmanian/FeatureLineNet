@@ -17,8 +17,9 @@ With the title
 
 
 ## Citation
-By using our work please citate us at: 
+Citate this work with
 
+```
 @inproceedings{denk_feature_2019,
 	address = {Jesteburg, Germany},
 	series = {{DfX}},
@@ -36,8 +37,7 @@ By using our work please citate us at:
 	year = {2019},
 	pages = {239--250},
 }
-
-
+```
 
 ## Introduction
 
