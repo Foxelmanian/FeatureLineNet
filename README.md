@@ -19,22 +19,23 @@ With the title
 ## Citation
 By using our work please citate us at: 
 
-```
 @inproceedings{denk_feature_2019,
+	address = {Jesteburg, Germany},
+	series = {{DfX}},
 	title = {Feature line detection of noisy triangulated {CSGbased} objects using deep learning},
+	volume = {30},
 	url = {https://www.designsociety.org/publication/42428/Feature+line+detection+of+noisy+triangulated+CSGbased+objects+using+deep+learning},
 	doi = {10.35199/dfx2019.21},
 	abstract = {Feature lines such as sharp edges are the main characteristic lines of a surface. These lines are suitable as a basis for surface reconstruction and reverse engineering [1]. A supervised deep learning approach based on graph convolutional networks on estimating local feature lines will be introduced in the following. We test this deep learning architecture on two provided data sets of which one covers sharp feature lines and the other arbitrary feature lines based on unnoisy meshed constructive solid geometry (CSG). Furthermore, we use a data balancing strategy by classifying different feature line types. We then compare the selected architecture with classical machine learning models. Finally, we show the detection of these lines on noisy and deformed meshes.},
 	language = {en},
 	urldate = {2019-10-02},
-	booktitle = {{DFX} 2019: {Proceedings} of the 30th {Symposium} {Design} for {X}, 18-19 {September} 2019, {Jesteburg}, {Germany}},
+	booktitle = {Proceedings of the 30th {Symposium} {Design} for {X}},
 	publisher = {The Design Society},
 	author = {Denk, Martin and Paetzold, Kristin and Rother, Klemens},
 	month = sep,
 	year = {2019},
+	pages = {239--250},
 }
-
-```
 
 
 
